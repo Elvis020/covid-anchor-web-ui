@@ -1,0 +1,20 @@
+{
+  "name": "react-with-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Elvis",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
